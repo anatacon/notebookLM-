@@ -2,7 +2,7 @@
 # Projeto usando o NotebookLM no bootcamp Bradesco - GenAI &amp; Dados na DIO.
 
 ## 📌 Sobre o Projeto
-Este repositório contém o resultado de um projeto prático desenvolvido durante meu bootcamp. O objetivo foi utilizar o **NotebookLM** (ferramenta de IA da Google baseada no modelo Gemini) para processar, sintetizar e organizar um grande volume de informações, transformando dados brutos em insights estruturados sobre pães de longa fermentação.
+Este repositório contém o resultado de um projeto prático desenvolvido durante meu bootcamp. O objetivo foi utilizar o **NotebookLM** (ferramenta de IA da Google baseada no modelo Gemini) para processar, sintetizar e organizar um grande volume de informações, transformando dados brutos em insights estruturados.
 
 ## 🚀 Tecnologias Utilizadas
 * **NotebookLM**: Para análise de fontes e geração de guias de estudo/resumos.
